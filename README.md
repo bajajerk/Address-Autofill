@@ -1,6 +1,6 @@
-# Address Autofller
+# Address Autofiller
 
-Gives suggestion when user start to write the address and autofills city , state and country accordingly.
+Gives suggestion when user start to write the address and autofills city,state and country accordingly.
 
 ## Getting Started
 
